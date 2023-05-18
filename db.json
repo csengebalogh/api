@@ -1,0 +1,5 @@
+{
+    "resources": [
+        "projects.json", "users.json"
+    ]
+}
