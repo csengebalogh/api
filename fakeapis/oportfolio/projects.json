@@ -1,12 +1,14 @@
 [
-        {
-            "id":1,
-            "title": "Wave Oscillator",
-            "text": "lorem ipsum salala",
-            "webUrl": "",
-            "gitUrl": "https://github.com/csengebalogh/wave-oscillator",
-            "stack": [
-                "angular", "typescript", "webaudioapi"
-            ]
-        }
-    ]
+    {
+        "id": 1,
+        "title": "Wave Oscillator",
+        "text": "lorem ipsum salala",
+        "webUrl": "",
+        "gitUrl": "https://github.com/csengebalogh/wave-oscillator",
+        "stack": [
+            "angular",
+            "typescript",
+            "webaudioapi"
+        ]
+    }
+]
