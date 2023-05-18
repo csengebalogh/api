@@ -1,5 +1,5 @@
 {
     "resources": [
-        "projects.json", "users.json"
+        { "id":"portfolio", "lib": "./fakeapis/oportfolio/", "resources": ["projects.json", "users.json"] }
     ]
 }
