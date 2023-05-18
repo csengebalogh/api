@@ -1,0 +1,6 @@
+{
+    "watch": [
+        "./fakeapis/oportfolio/projects.json",
+        "./fakeapis/oportfolio/users.json"
+    ]
+}
